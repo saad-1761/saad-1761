@@ -44,21 +44,21 @@
   <tr>
     <!-- Column A -->
     <td style="width:50%; vertical-align:top; padding:6px;">
-      <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
+      <div align='center' style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" width="28" height="28" style="flex:0 0 28px;" /> -->
         <div style="line-height:1.2;">
           <strong>Frontend Technologies</strong><br/>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react&perline=10" alt="frontend icons" style="margin-top:6px;"/>
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react&perline=10" alt="frontend icons" style="margin-top:6px;"/>
         </div>
       </div>
     </td>
     <!-- Column B -->
   <td style="width:50%; vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodeJS" alt="node" width="28" height="28" style="flex:0 0 28px;" />
-        <div style="line-height:1.2;">
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=nodeJS" alt="node" width="28" height="28" style="flex:0 0 28px;" /> -->
+        <div align='center' style="line-height:1.2;">
           <strong>Back-End Technologies</strong><br/>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=nodeJS,expressjs&perline=10" alt="backend icons" style="margin-top:6px;"/>
+          <img align='center' src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs&perline=10" alt="backend icons" style="margin-top:6px;"/>
         </div>
       </div>
     </td>
@@ -68,7 +68,7 @@
     <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="mongo" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Database Technologies</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&perline=10" alt="db icons" style="margin-top:6px;"/>
         </div>
@@ -77,7 +77,7 @@
     <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=word" alt="office" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Office & Documentation</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,overleaf&perline=10" alt="office icons" style="margin-top:6px;"/>
         </div>
@@ -89,7 +89,7 @@
     <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Other Languages</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,r&perline=10" alt="lang icons" style="margin-top:6px;"/>
         </div>
@@ -99,7 +99,7 @@
   <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Specialized Technologies</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,autocad,arduino&perline=10" alt="spec icons" style="margin-top:6px;"/>
         </div>
@@ -111,7 +111,7 @@
     <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" alt="illustrator" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Illustration Tools</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,canva&perline=10" alt="illustration icons" style="margin-top:6px;"/>
         </div>
@@ -121,7 +121,7 @@
   <td style="vertical-align:top; padding:6px;">
       <div style="display:flex; align-items:center; gap:12px; padding:8px 6px;">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=clickup" alt="productivity" width="28" height="28" style="flex:0 0 28px;" /> -->
-        <div style="line-height:1.2;">
+        <div align='center' style="line-height:1.2;">
           <strong>Productivity Tools</strong><br/>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=clickup,notion&perline=10" alt="prod icons" style="margin-top:6px;"/>
         </div>
@@ -129,6 +129,8 @@
     </td>
   </tr>
 </table>
+<br>
+<h3 align='center'> Github Stats </h3>
 
 
 
