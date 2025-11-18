@@ -1,4 +1,4 @@
-<img align=”center” alt=”Coding” width=”100%” h="20%" src="./banner.jpg"/>
+<img align=”center” alt=”Coding” width=”1400” h="20%" src="./banner.jpg"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
