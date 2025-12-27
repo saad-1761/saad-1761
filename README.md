@@ -130,11 +130,4 @@
   </tr>
 </table>
 <br>
-<h3 align='center'> Github Stats </h3>
 
-
-
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saad-1761&show_icons=true&locale=en" alt="saad-1761" /></p> 
